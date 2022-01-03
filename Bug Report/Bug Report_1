@@ -1,0 +1,19 @@
+Issue Title: Windows 10 - Product list Page - The "read reviews" button in Quicklook does not respond when clicked
+
+Type: Functional
+
+Frequency: every time
+
+Severity: Medium
+
+Action Performed:
+1) Open www.bathandbodyworks.com/
+2) Navigate to any category
+3) Click on "Quicklook" any product
+4) Hover over the rating and click "read reviews"
+
+Expected result: A page with reviews has opened
+
+Actual result: The "read reviews" button does not respond when clicked
+
+Attachments: https://drive.google.com/file/d/1cg7IO4ZPBVUkD83vqIFJpVreh47J79bb/view?usp=sharing
